@@ -1,4 +1,4 @@
-# Hi, I'm <MHARK VINCENT BARNEDO>! 👋
+# Hi, I'm MHARK VINCENT BARNEDO! 👋
 
 I am a passionate IT student at XU Ateneo de Cagayan, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 ![<MBarnedo>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
@@ -20,8 +20,12 @@ I am a passionate IT student at XU Ateneo de Cagayan, driven by a curiosity for 
 ## 🏆 Achievements
 - 🌟 Completed Git & GitHub Setup 2024
 - 🔭 I’m currently working on my final API project.
+<<<<<<< HEAD
 
 ## 😜Fun Fact About Me
 -I can reach my thumb to my wrist
 
+=======
+  
+>>>>>>> 82661dacf84bc1496cc25f1048a4f5058712f26f
 Thanks for stopping by!
