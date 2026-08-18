@@ -20,12 +20,10 @@ I am a passionate IT student at XU Ateneo de Cagayan, driven by a curiosity for 
 ## 🏆 Achievements
 - 🌟 Completed Git & GitHub Setup 2024
 - 🔭 I’m currently working on my final API project.
-<<<<<<< HEAD
+
 
 ## 😜Fun Fact About Me
 -I can reach my thumb to my wrist
 
-=======
   
->>>>>>> 82661dacf84bc1496cc25f1048a4f5058712f26f
 Thanks for stopping by!
